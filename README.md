@@ -21,7 +21,7 @@ cargo clean
 #### Compile 
 
 ```bash
-cargo clean
+cargo compile
 ```
 
 #### Unit Test
@@ -33,6 +33,6 @@ cargo test
 #### Run
 
 ```bash
-cargo test
+cargo run
 ```
 
